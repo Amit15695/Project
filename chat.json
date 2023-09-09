@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": ["Hello there", "Hey, How are you", "Hey", "Hi", "Hello", "Anybody", "Hey there"],
+      "responses": ["Hello, I'm your chatbot, how are you?", "Hey, it's good to see you!", "Hi there, please upload your dog's picture"],
+      "context": [""]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you"],
+      "responses": ["Happy to help you", "Thanks for reaching out to me", "It's my pleasure"],
+      "context": [""]
+    },
+    {
+      "tag": "no_answer",
+      "patterns": [],
+      "responses": ["Sorry, could you please repeat that?", "Please provide more information", "I can't understand you"],
+      "context": [""]
+    },
+    {
+      "tag": "support",
+      "patterns": ["What do you do?", "How can you assist me?"],
+      "responses": ["I am collecting dogs pictures from the users, and saving them in my database."],
+      "context": [""]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye bye", "Nice to chat with you", "Bye", "See you later", "Goodbye"],
+      "responses": ["Goodbye, thank you for helping us expand our dog's database!", "Have a wonderful day!", "See you later."],
+      "context": [""]
+    },
+  ]
+}

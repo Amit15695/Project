@@ -1,0 +1,14 @@
+{
+    "699840220": {
+        "photo_path": "dog_images/AgACAgQAAxkBAAIBUGT8lwrVq28qjBLm8Pg0lgdkfeWnAAJFvzEb8zXoU5WLOmt4VG41AQADAgADeQADMAQ.png",
+        "user_id": 699840220,
+        "dog_type": "other",
+        "dog_color": "white"
+    },
+    "6506360523": {
+        "photo_path": "dog_images/AgACAgQAAxkBAAIBVGT8ly3b9J7INPyuep8EunX53jgaAAJGwTEbdg3hUw-eIGJPl19AAQADAgADeQADMAQ.png",
+        "user_id": 6506360523,
+        "dog_type": "poodle",
+        "dog_color": "white"
+    }
+}
